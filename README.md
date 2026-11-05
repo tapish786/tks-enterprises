@@ -1,299 +1,295 @@
-# TKS Enterprises
+<div align="center">
 
-### Digital Solutions. Designed for Growth.
+<img src="https://img.shields.io/badge/TKS_ENTERPRISES-DIGITAL_AGENCY-111827?style=for-the-badge&labelColor=111827&color=6366F1" alt="TKS Enterprises digital agency" />
 
-A modern digital agency website built to showcase professional digital services, creative solutions, and technology-driven business growth.
+<h1>TKS Enterprises</h1>
 
-**TKS Enterprises** is a team-oriented digital agency project focused on delivering modern, responsive, user-friendly, and SEO-friendly digital experiences for businesses and individuals.
+<p><strong>Digital Solutions. Designed for Growth.</strong></p>
 
----
+<p>A modern digital agency website for clear, thoughtful digital experiences.</p>
 
-## About the Project
+<a href="https://github.com/tapish786/tks-enterprises">
+  <img src="https://img.shields.io/badge/Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View the TKS Enterprises repository on GitHub" />
+</a>
+<a href="https://github.com/tapish786/tks-enterprises/issues">
+  <img src="https://img.shields.io/badge/Issues-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open TKS Enterprises issues on GitHub" />
+</a>
 
-TKS Enterprises is a digital agency web application designed to establish a professional online presence and showcase a range of digital services.
+<br />
 
-The platform aims to bring web development, search engine optimization, UI/UX design, and other creative digital services together under one brand.
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=760&height=56&lines=Welcome+to+TKS+Enterprises;Digital+Solutions.+Designed+for+Growth.;Web+Development+%7C+SEO+%7C+UI%2FUX+Design;Building+Digital+Experiences" alt="Typing animation: Welcome to TKS Enterprises; Digital Solutions. Designed for Growth.; Web Development, SEO and UI/UX Design; Building Digital Experiences" />
+</a>
 
-The project is being developed with a scalable architecture, modern frontend technologies, and a planned backend powered by Express.js and PostgreSQL.
+<br />
 
-### Our Vision
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-16-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 16" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript 5" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-4-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS 4" /></a>
 
-To help businesses build a strong digital presence through innovative technology, modern design, and effective digital strategies.
+<br />
 
-### Our Mission
+<img src="https://img.shields.io/badge/Express.js-PLANNED-1F2937?style=for-the-badge&logo=express&logoColor=white" alt="Express.js planned" />
+<img src="https://img.shields.io/badge/PostgreSQL-PLANNED-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL planned" />
+<img src="https://img.shields.io/badge/Prisma-PLANNED-1F2937?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma planned" />
 
-- Build high-quality and responsive websites.
-- Improve online visibility through SEO.
-- Deliver user-focused UI/UX experiences.
-- Provide scalable and maintainable digital solutions.
-- Create reliable digital experiences for businesses.
+<br /><br />
 
----
+<a href="https://github.com/tapish786/tks-enterprises">Repository</a> ·
+<a href="https://github.com/tapish786/tks-enterprises/issues">Issues</a> ·
+<a href="LICENSE">MIT License</a>
+
+</div>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━ &nbsp; DIGITAL EXPERIENCES, BUILT WITH INTENTION &nbsp; ━━━━━━━━━━━━━━━━━━━━━━</p>
+
+## About the project
+
+**TKS Enterprises** is a digital agency website built to introduce the agency and present its services, work, and ways to get in touch. The current application is a Next.js frontend. The backend and database are planned; they are not implemented yet.
+
+### Our vision
+
+Help businesses build a strong digital presence through thoughtful design, modern technology, and clear digital strategies.
+
+### Our mission
+
+- Build responsive websites around business needs.
+- Present SEO, design, and development services clearly.
+- Create user-focused digital experiences.
+- Prepare a maintainable foundation for future integrations.
 
 ## Services
 
-TKS Enterprises focuses on the following digital services:
+| Service | Focus |
+| --- | --- |
+| Web Development | Modern, responsive website experiences |
+| SEO | Search optimization for website content and structure |
+| UI/UX Design | User-focused interface and experience design |
+| Graphic Design | Visual communication and brand design |
+| WordPress Development | WordPress website development |
+| Website Maintenance | Website care and updates |
 
-| Service | Description |
-|---|---|
-| Web Development | Modern and responsive website development. |
-| SEO | On-page, technical, and off-page SEO strategies. |
-| UI/UX Design | User-centered interface and experience design. |
-| Graphic Design | Creative visual and branding solutions. |
-| WordPress Development | WordPress website development and customization. |
-| Website Maintenance | Website updates, optimization, and maintenance. |
+These are service descriptions presented by the website, not claims of completed client projects or case studies.
 
----
+## Website pages and features
 
-## Website Pages
+| Route | Page |
+| --- | --- |
+| `/` | Home |
+| `/about` | About TKS Enterprises |
+| `/services` | Services overview |
+| `/services/web-development` | Web Development |
+| `/services/seo` | SEO |
+| `/services/ui-ux-design` | UI/UX Design |
+| `/services/graphic-design` | Graphic Design |
+| `/services/wordpress-development` | WordPress Development |
+| `/services/website-maintenance` | Website Maintenance |
+| `/work` | Work / portfolio page |
+| `/blog` | Blog page with sample editorial previews |
+| `/contact` | Contact page with client-side form validation |
 
-The frontend includes the following pages and sections:
+The contact form is a frontend demo: it validates in the browser and does not send email or save submissions. Blog topics are marked as previews; article pages and publishing integration are not implemented.
 
-- Home – Introduction to TKS Enterprises.
-- About – Company information and brand identity.
-- Services – Overview of available digital services.
-- Individual Service Pages – Detailed information about each service.
-- Blog – Blog section for publishing informative content.
-- Contact – Contact and inquiry page.
+## Technology stack
 
----
+### Implemented frontend
 
-## Technology Stack
+| Technology | Version / role |
+| --- | --- |
+| [Next.js](https://nextjs.org/) | 16, App Router |
+| [React](https://react.dev/) | 19, UI library |
+| [TypeScript](https://www.typescriptlang.org/) | 5, typed application code |
+| [Tailwind CSS](https://tailwindcss.com/) | 4, styling |
+| [ESLint](https://eslint.org/) | Code linting |
 
-### Frontend
+### Planned backend
 
-- **Next.js 16** – React-based web framework.
-- **React** – Component-based UI development.
-- **TypeScript** – Type-safe JavaScript development.
-- **Tailwind CSS** – Utility-first CSS framework.
+| Technology | Planned role |
+| --- | --- |
+| Node.js | JavaScript runtime |
+| [Express.js](https://expressjs.com/) | Backend application framework |
+| [PostgreSQL](https://www.postgresql.org/) | Relational database |
+| [Prisma](https://www.prisma.io/) | ORM and database schema tooling |
 
-### Backend (Planned)
+No backend API, database schema, or Prisma integration is implemented in the current application.
 
-- **Node.js** – JavaScript runtime.
-- **Express.js** – Backend application framework.
-- **PostgreSQL** – Relational database.
-- **Prisma ORM** – Database access and schema management.
+### Development environment
 
-### Development Tools
+Ubuntu on WSL 2 · Visual Studio Code · Git and GitHub · Codex
 
-- Visual Studio Code
-- Git and GitHub
-- Ubuntu on WSL 2
-- Codex for AI-assisted development
+## Project architecture
 
----
+```mermaid
+flowchart LR
+    Visitor[Visitor] --> Next[Next.js 16 App Router]
+    Next --> UI[React + TypeScript]
+    UI --> CSS[Tailwind CSS]
+    Next -. planned .-> Express[Node.js + Express.js]
+    Express -. planned .-> Prisma[Prisma ORM]
+    Prisma -. planned .-> DB[(PostgreSQL)]
+```
 
-## Project Architecture
+Solid lines show the current frontend. Dashed lines show planned backend work.
 
-The project follows a separated frontend and backend architecture.
+## Repository structure
 
 ```text
 tks-enterprises/
-│
-├── frontend/
-│   ├── app/
-│   │   ├── about/
-│   │   ├── blog/
-│   │   ├── contact/
-│   │   └── services/
-│   │       ├── web-development/
-│   │       ├── seo/
-│   │       ├── ui-ux-design/
-│   │       ├── graphic-design/
-│   │       ├── wordpress-development/
-│   │       └── website-maintenance/
-│   │
-│   ├── components/
-│   ├── public/
-│   ├── package.json
-│   └── ...
-│
-├── backend/
-│   └── Backend development planned
-│
-└── README.md
+├── LICENSE
+├── README.md
+└── frontend/
+    ├── app/
+    │   ├── about/page.tsx
+    │   ├── blog/page.tsx
+    │   ├── contact/page.tsx
+    │   ├── services/
+    │   │   ├── graphic-design/page.tsx
+    │   │   ├── seo/page.tsx
+    │   │   ├── ui-ux-design/page.tsx
+    │   │   ├── web-development/page.tsx
+    │   │   ├── website-maintenance/page.tsx
+    │   │   ├── wordpress-development/page.tsx
+    │   │   └── page.tsx
+    │   ├── work/page.tsx
+    │   ├── globals.css
+    │   ├── layout.tsx
+    │   └── page.tsx
+    ├── components/
+    │   ├── home/
+    │   │   ├── About.tsx
+    │   │   ├── FinalCTA.tsx
+    │   │   ├── Hero.tsx
+    │   │   ├── Portfolio.tsx
+    │   │   ├── Process.tsx
+    │   │   ├── Services.tsx
+    │   │   ├── TrustSection.tsx
+    │   │   └── WhyTKS.tsx
+    │   └── layout/
+    │       ├── Footer.tsx
+    │       └── Header.tsx
+    ├── public/
+    │   ├── file.svg
+    │   ├── globe.svg
+    │   ├── next.svg
+    │   ├── vercel.svg
+    │   └── window.svg
+    ├── eslint.config.mjs
+    ├── next.config.ts
+    ├── package-lock.json
+    ├── package.json
+    ├── postcss.config.mjs
+    └── tsconfig.json
 ```
 
-*Note: This is a simplified representation of the project structure.*
+## Screenshots and preview
 
----
+There are no verified project screenshots in the repository yet. No mock or unrelated screenshots are used here. Run the app locally to preview the current interface; real captures can be added when available.
 
-## Getting Started
-
-Follow these instructions to run the frontend locally.
+## Getting started
 
 ### Prerequisites
 
-Make sure you have installed:
-
-- Node.js (LTS)
+- Node.js (LTS recommended)
 - npm
 - Git
-- Visual Studio Code (recommended)
 
-### 1. Clone the Repository
+### Install and run the frontend
 
 ```bash
 git clone https://github.com/tapish786/tks-enterprises.git
-```
-
-### 2. Navigate to the Frontend
-
-```bash
 cd tks-enterprises/frontend
-```
-
-### 3. Install Dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the Development Server
-
-```bash
+npm ci
 npm run dev
 ```
 
-### 5. Open in Browser
+Open [http://localhost:3000](http://localhost:3000).
 
-Visit:
+### Useful checks
 
-```text
-http://localhost:3000
+Run from `frontend/`:
+
+```bash
+npm run lint
+npx tsc --noEmit
+npm run build
 ```
 
----
+Run `npm start` after `npm run build` to serve the production build locally.
 
-## Environment Configuration
+## Environment variables
 
-Environment variables will be configured as backend and database integration is implemented.
+The current frontend does not require application environment variables. Backend and database configuration will be documented when those integrations are implemented. Never commit secrets or credentials; document future variable names in an example file with values omitted.
 
-Never commit secrets, database credentials, or private API keys to GitHub.
-
-Use `.env.example` to document required configuration variables without exposing actual credentials.
-
----
-
-## Git Workflow
-
-This project follows a feature-based Git workflow to maintain organized development and collaboration.
+## Git workflow
 
 ```text
-main
-  |
-  └── develop
-        |
-        ├── feature/frontend-setup
-        ├── feature/about-page
-        ├── feature/services-page
-        └── feature/backend-setup
+feature/*  →  develop  →  main
 ```
-
-### Branch Strategy
 
 | Branch | Purpose |
-|---|---|
-| `main` | Stable production-ready code. |
-| `develop` | Integration branch for development. |
-| `feature/*` | Individual features and development tasks. |
+| --- | --- |
+| `main` | Production or stable branch |
+| `develop` | Development integration branch |
+| `feature/*` | Individual feature work |
 
-### Development Workflow
+Create focused feature branches from `develop`, then open a pull request into `develop`. Promote reviewed, stable work from `develop` to `main` through a pull request. Follow the branch protection and review requirements configured in GitHub.
 
-1. Create a feature branch from `develop`.
-2. Implement the assigned feature.
-3. Test and review the changes.
-4. Commit and push the feature branch.
-5. Create a Pull Request into `develop`.
-6. Review and merge the Pull Request.
-7. Promote stable changes from `develop` to `main` through a Pull Request.
+## Development workflow
 
-Branch protection rules and required approvals must be respected.
+1. Update your local `develop` branch.
+2. Create a focused branch, such as `feature/contact-page`.
+3. Implement and review the change locally.
+4. Run relevant lint, type, and build checks.
+5. Push the feature branch and open a pull request into `develop`.
+6. After integration and review, promote stable changes to `main` through a pull request.
 
----
+## Current development progress
 
-## Development Progress
+- Frontend routes for the home, about, services, work, blog, and contact pages are present.
+- Individual pages are present for all six listed services.
+- The contact form performs client-side validation only; there is no submission integration.
+- The blog currently presents sample editorial previews, not published articles.
+- Express.js, PostgreSQL, and Prisma work remains planned.
+- No verified screenshots are currently included.
 
-### Completed
+## Future roadmap
 
-- [x] Initial Next.js project setup.
-- [x] Frontend architecture.
-- [x] Homepage development.
-- [x] Header and navigation.
-- [x] Footer.
-- [x] About page.
-- [x] Blog page.
-- [x] Contact page.
-- [x] Services overview page.
-- [x] Individual service pages.
-- [x] Frontend Git integration.
+- Plan and implement the Express.js backend API.
+- Add PostgreSQL and Prisma when backend requirements are defined.
+- Connect the contact form to an agreed API or email workflow.
+- Add database-backed content and a publishing workflow for blog articles.
+- Add real project screenshots and case studies when approved project material is available.
+- Continue performance, technical SEO, and deployment improvements.
 
-### Upcoming Development
+Roadmap items are proposals for future development, not current functionality.
 
-- [ ] Complete remaining frontend reviews.
-- [ ] Resolve navigation and environment warnings.
-- [ ] Backend project initialization.
-- [ ] Express.js API development.
-- [ ] PostgreSQL database configuration.
-- [ ] Prisma ORM integration.
-- [ ] Frontend and backend integration.
-- [ ] API testing and validation.
-- [ ] Deployment and production configuration.
+## Contribution guidelines
 
----
-
-## Future Roadmap
-
-Our long-term development roadmap includes:
-
-- Scalable backend architecture.
-- Database-driven content management.
-- Dynamic blog functionality.
-- Contact form API integration.
-- Secure API development.
-- Authentication and authorization where required.
-- Performance optimization.
-- Technical SEO improvements.
-- Production deployment.
-
----
-
-## Contributing
-
-Contributions and suggestions are welcome.
-
-If you want to contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes.
-4. Test your implementation.
-5. Submit a Pull Request for review.
-
-Please follow the project's existing coding standards and Git workflow.
-
----
-
-## Project Information
-
-**Project:** TKS Enterprises  
-**Category:** Digital Agency Web Application  
-**Frontend:** Next.js 16, React, TypeScript, Tailwind CSS  
-**Backend:** Express.js (planned)  
-**Database:** PostgreSQL (planned)  
-**ORM:** Prisma (planned)  
-**Repository:** [GitHub - TKS Enterprises](https://github.com/tapish786/tks-enterprises)
-
----
+1. Review existing issues or open one to discuss a significant change.
+2. Create a focused `feature/*` branch from `develop`.
+3. Keep changes scoped and do not commit secrets or local generated files.
+4. Run relevant checks from `frontend/`, including `npm run lint`, `npx tsc --noEmit`, and `npm run build`.
+5. Open a pull request into `develop` with a clear summary. Include screenshots for visual changes when useful and follow repository review requirements.
 
 ## License
 
-A license has not yet been specified for this project. Usage and redistribution permissions will be defined when a license is added.
+This project is licensed under the [MIT License](LICENSE). Copyright © 2026 Tapish kumar Sharma.
 
----
+## Contact and project links
 
-### Built with Technology, Creativity, and Purpose.
+For questions or project discussions, use [GitHub Issues](https://github.com/tapish786/tks-enterprises/issues). No public email address, phone number, or office address is listed in the repository.
 
-**TKS Enterprises** — Building Digital Experiences for Tomorrow.
+<div align="center">
 
-⭐ If you find this project interesting, consider starring the repository!
+<br />
+
+<strong>TKS ENTERPRISES</strong> · Digital Solutions. Designed for Growth.
+
+<br /><br />
+
+<a href="https://github.com/tapish786/tks-enterprises">Repository</a> ·
+<a href="https://github.com/tapish786/tks-enterprises/issues">Issues</a> ·
+<a href="LICENSE">MIT License</a>
+
+</div>
