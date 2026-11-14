@@ -46,7 +46,7 @@
 
 ## About the project
 
-**TKS Enterprises** is a digital agency website built to introduce the agency and present its services, work, and ways to get in touch. The current application is a Next.js frontend. The backend and database are planned; they are not implemented yet.
+**TKS Enterprises** is a digital agency website built to introduce the agency and present its services, work, and ways to get in touch. The current application is a Next.js frontend.
 
 ### Our vision
 

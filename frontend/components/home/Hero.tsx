@@ -16,7 +16,6 @@ function CountUp({ to, decimals = 0, prefix = "", delay = 0, duration = 1400 }: 
 
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      setValue(to);
       return;
     }
     let raf = 0;
@@ -39,8 +38,8 @@ function CountUp({ to, decimals = 0, prefix = "", delay = 0, duration = 1400 }: 
 
   return (
     <>
-      {prefix}
-      {value.toFixed(decimals)}
+      <span className="motion-reduce:hidden">{prefix}{value.toFixed(decimals)}</span>
+      <span className="hidden motion-reduce:inline">{prefix}{to.toFixed(decimals)}</span>
     </>
   );
 }
